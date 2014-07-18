@@ -1,0 +1,27 @@
+{
+  "name": "she.codes-S0E0",
+  "version": "0.0.0",
+  "description": "she.codes training prelude for beta testers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shecodes-students/S0E0.git"
+  },
+  "keywords": [
+    "she.codes"
+  ],
+  "author": " <jan@she.codes>",
+  "license": "CC BY",
+  "bugs": {
+    "url": "https://github.com/shecodes-students/S0E0/issues"
+  },
+  "homepage": "https://github.com/shecodes-students/S0E0",
+  "devDependencies": {
+    "insertmode-reading-list": "insertmode/reading-list",
+    "ejs": "^1.0.0",
+    "marked": "^0.3.2"
+  }
+}
