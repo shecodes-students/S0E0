@@ -1,0 +1,25 @@
+---
+title: Create your account on Github
+entry: https://help.github.com/articles/signing-up-for-a-new-github-account
+pages:
+  - /.*\/github.com\/$/
+  - /.*\/github.com\/join\/plan/
+description: |
+    It is your choice whether you want to be super-nerdy and use two-factor authentication or not.
+---
+title: Create your first repository
+entry: entry: https://help.github.com/articles/create-a-repo
+description: |
+    This repository will be a place for your personal notes, like a blog.
+pages:
+  - url: /.*\/github.com\/new/
+    description: |
+      Call your new repository `my-notes-on-she.codes`.
+  - url: /.*\/github.com\/[^/]+/my-notes-on-she.codes/
+    description: |
+      In the Readme.md you can put something like 'This repository is for my personal she.codes stuff'.
+      **NOTE** All the world can see the contents of this repository. It is public.
+---
+title: Learn all about the markdown syntax
+entry: http://gitbookio.gitbooks.io/markdown/
+---
