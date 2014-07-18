@@ -2,7 +2,7 @@ Hi!
 ==
 
 This is exciting! We are very happy to have you here. Thank you for being one of the very first beta testers of she.codes! We do appreciate your support a lot!
-Should you have any questions or get stuck, you can always reach us at [beta@she.codes](mailto:beta@she.codes) or on Skype (Olena is `lenakari` and Jan is `regularwork`).
+Should you have any questions or get stuck, you can always reach us at [beta@she.codes](mailto:beta@she.codes) or on Skype (Olena is `olena.levitsky` and Jan is `regularwork`).
 
 Like ssen on TV!
 ----------------
