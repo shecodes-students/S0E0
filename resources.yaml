@@ -8,7 +8,7 @@ description: |
     It is your choice whether you want to be super-nerdy and use two-factor authentication or not.
 ---
 title: Create your first repository
-entry: entry: https://help.github.com/articles/create-a-repo
+entry: https://help.github.com/articles/create-a-repo
 description: |
     This repository will be a place for your personal notes, like a blog.
 pages:
@@ -22,4 +22,3 @@ pages:
 ---
 title: Learn all about the markdown syntax
 entry: http://gitbookio.gitbooks.io/markdown/
----
