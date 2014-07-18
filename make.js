@@ -8,5 +8,8 @@ var ctx = {
     rl_html: fs.readFileSync('build/rl.html')
 };
 var content = marked(ejs.render(fs.readFileSync('episode.md', 'utf8'), ctx));
-console.log(content);
+
+var layout = fs.readFileSync('layout.html', 'utf8');
+var page = ejs.render(layout, {content: content});
+console.log(page);
 
