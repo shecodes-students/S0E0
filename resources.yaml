@@ -13,7 +13,7 @@ pages:
   - url: /.*\/github.com\/$/
     description: Congratulations, you have a GitHub account now! Move on to the next step!
 description: |
-    Your GitHub account is your gateway to the woled of social coding!
+    Your GitHub account is your gateway to the world of social coding!
 ---
 title: Create your first repository
 entry: https://help.github.com/articles/create-a-repo

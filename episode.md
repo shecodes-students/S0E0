@@ -44,7 +44,7 @@ title: Ready?
 template: reading_list.ejs
 resources: resources.yaml
 ---
-Okay, so here is your first quest, your first reading list!
+Okay, so here is your first quest - your first reading list!
 After you have installed the bookmarklet, start by clicking on the headline next to step 1, it will take you to the external web site. Click the bookmarklet once you are there to get hints and annotations.
 All the links in the reading list open in a new window.
 After you finished all the steps, please return here (simply by closing that window).
@@ -54,8 +54,8 @@ And now, enjoy the ride!
 ---
 title: Yay!
 ---
-You have created your account on GitHub, learned how to create a repository with a Readme.md file and how to edit that file.
-You also learned how to write formatted text using  *Markdown-syntax*.
+You have created your account on GitHub, learned how to create a repository with a Readme.md file, and how to edit that file.
+You have also learned how to write formatted text using *Markdown-syntax*.
 
 Now it is time to write about this amazing experience! Go back to your repository and look for a blue line saying `my-notes-on-she.codes / +`. You can create a new file by clicking on the `+` symbol. Call that new file `journal.md`.
 
@@ -64,9 +64,9 @@ title: Syntax of a journal entry
 ---
 To make your journal file compatible with the she.codes platform, please stick to the following format.
 
-- start each entry on a new line starting with a `#` followed by the date
+- start each entry on a new line, starting with a `#` followed by the date
 
-- as the date format, please use `yyyy-mm-dd`. Meaning four digits of the year, followed by a dash, followed by two digits of the month followed by a dash followed by two digits of the day.
+- as the date format, please use `yyyy-mm-dd` (meaning four digits of the year, followed by a dash, followed by two digits of the month, followed by a dash followed by two digits of the day).
 
 - after this special line, you can use all of the markdown tricks you have learned!
 
@@ -82,7 +82,7 @@ title: Dear Diary
 Knowing how you feel while studying the material we
 show to you is very important to us. Please write down all the little confusions, misunderstandings, or even frustrations you might encounter, but do not leave out the fun and exciting moments as well!
 
-Should you encounter terms that you do not understand, we leave it to your judgement whether you use Wikipedia, Google or anything else to search for the definition or explanation. If you find something that helped you, please take a note of the url in your journal.
+Should you encounter terms that you do not understand, we leave it to your judgement whether you use Wikipedia, Google, or anything else to search for the definition or explanation. If you find something that helped you, please make a note of the url in your journal.
 If English is not your first language, and you struggle with certain words, please consult an online dictionary and take a note of it. We want she.codes to work for as many women as possible, so it is important to us that the language is as accessible as possible.
 
 If you get stuck and contact us, please also write about this incident in your journal.
