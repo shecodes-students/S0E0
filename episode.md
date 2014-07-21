@@ -41,9 +41,16 @@ That's why you should always make sure to click the bookmarklet after navigating
 Simply make it a habit to click the bookmarklet whenever you do not see the reading list!
 ---
 title: Ready?
+template: reading_list.ejs
 resources: resources.yaml
 ---
-Okay, so here is your first quest, your first reading list. Enjoy the ride!
+Okay, so here is your first quest, your first reading list!
+After you have installed the bookmarklet, start by clicking on the headline next to step 1, it will take you to the external web site. Click the bookmarklet once you are there to get hints and annotations.
+All the links in the reading list open in a new window.
+After you finished all the steps, please return here (simply by closing that window).
+
+
+And now, enjoy the ride!
 ---
 title: Dear Diary
 ---

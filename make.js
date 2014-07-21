@@ -32,8 +32,21 @@ function render(segment, cb) {
     var templatePath = 'templates/' + templateName;
     segment.text = marked(segment.text || '');
     var template = fs.readFileSync(templatePath, 'utf8');
-    cb(null, ejs.render(template, segment));
-} 
+    if (segment.resources) {
+        var yamlData = fs.readFileSync(segment.resources, 'utf8');
+        var opts = {
+            link_target: '_new',
+            bookmarklet_link_text: 'S0E0'
+        };
+        compileReadingList(yamlData, opts, function(err, res) {
+            if (err) return cb(err);
+            segment.reading_list = res;
+            cb(null, ejs.render(template, segment));
+        });
+    } else {
+        cb(null, ejs.render(template, segment));
+    } 
+}
 
 // concat rendered segments and put into layout
 render = _.wrapCallback(render);

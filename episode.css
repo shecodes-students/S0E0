@@ -1,3 +1,20 @@
 .reading_list h1 {
     font-size: 1.3em;
 }
+.reading_list span.pages {
+    display: none;
+}
+.reading_list > a {
+    background-color: #557;
+    color: white;
+    padding: 4px;
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
+.reading_list a h1 {
+    color: #557;
+}
+.reading_list a:visited h1 {
+    color: black;
+}
