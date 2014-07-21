@@ -24,13 +24,13 @@ var segments = _(readYAMLDocs('episode.md')).batch(2).map(function(l) {
 });
 
 /* segments.toArray(function(x) {
-    console.error(inspect(x, {depth: null}));
+   console.error(inspect(x, {depth: null}));
 }); */
 
 function render(segment, cb) {
     var templateName = segment.template || 'section.ejs';
     var templatePath = 'templates/' + templateName;
-    segment.text = marked(segment.text || '');
+    segment.marked = marked;
     var template = fs.readFileSync(templatePath, 'utf8');
     if (segment.resources) {
         var yamlData = fs.readFileSync(segment.resources, 'utf8');

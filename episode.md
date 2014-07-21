@@ -52,6 +52,31 @@ After you finished all the steps, please return here (simply by closing that win
 
 And now, enjoy the ride!
 ---
+title: Yay!
+---
+You have created your account on GitHub, learned how to create a repository with a Readme.md file and how to edit that file.
+You also learned how to write formatted text using  *Markdown-syntax*.
+
+Now it is time to write about this amazing experience! Go back to your repository and look for a blue line saying `my-notes-on-she.codes / +`. You can create a new file by clicking on the `+` symbol. Call that new file `journal.md`.
+
+---
+title: Syntax of a journal entry
+---
+To make your journal file compatible with the she.codes platform, please stick to the following format.
+
+- start each entry on a new line starting with a `#` followed by the date
+
+- as the date format, please use `yyyy-mm-dd`. Meaning four digits of the year, followed by a dash, followed by two digits of the month followed by a dash followed by two digits of the day.
+
+- after this special line, you can use all of the markdown tricks you have learned!
+
+---
+title: Here is an example journal entry
+template: example.ejs
+---
+&#35; 2014-07-21
+I cannot think of anything more fun than to beta-test **she.codes**!
+---
 title: Dear Diary
 ---
 Knowing how you feel while studying the material we

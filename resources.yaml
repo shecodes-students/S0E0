@@ -11,7 +11,7 @@ pages:
   - url: /.*\/github.com\/join\/plan/
     description: Just pick the free plan, it will suffice for everything we do on she.codes.
   - url: /.*\/github.com\/$/
-    description: Congratulations, you have a FitHub account now! Move on to the next step!
+    description: Congratulations, you have a GitHub account now! Move on to the next step!
 description: |
     Your GitHub account is your gateway to the woled of social coding!
 ---
@@ -23,9 +23,12 @@ pages:
   - url: /.*\/github.com\/new/
     description: |
       Call your new repository `my-notes-on-she.codes`.
+      Make it `public` and select `Initialize this repository with a README`.
   - url: /.*\/github.com\/[^/]+/my-notes-on-she.codes/
     description: |
       In the Readme.md you can put something like 'This repository is for my personal she.codes stuff'.
+      
+    
       **NOTE** All the world can see the contents of this repository. It is public.
 ---
 title: Learn Markdown 
