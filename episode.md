@@ -21,7 +21,7 @@ If you don't know what GitHub is, don't worry. You don't have to at all.
 title: Reading Lists
 ---
 Throughout the various episodes, we will send you out to external websites to pick up their free gems of wisdom.
-In each episode, we give you a list of links to visit, this list is called a _reading list_.
+In each episode, we give you a list of links to visit, this list is called a _reading list_. You can see one below, under the heading **Ready?**.
 ---
 title: The bookmarklet is with you
 ---
