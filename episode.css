@@ -21,3 +21,11 @@
 .reading_list li .page {
     display: none;
 }
+
+pre {
+    display: block;
+    padding: 8px;
+    border: 1px solid #AAA;
+    border-radius: 4px;
+    background-color: #DDD;
+}

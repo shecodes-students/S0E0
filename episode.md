@@ -70,12 +70,14 @@ To make your journal file compatible with the she.codes platform, please stick t
 
 - after this special line, you can use all of the markdown tricks you have learned!
 
----
-title: Here is an example journal entry
-template: example.ejs
----
-&#35; 2014-07-21
-I cannot think of anything more fun than to beta-test **she.codes**!
+### Here is an example journal entry
+``` markdown
+# 2014-07-21
+I cannot think of anything more fun than 
+    - to learn new programming stuff
+    - to beta-test **she.codes**!
+```
+
 ---
 title: Dear Diary
 ---
