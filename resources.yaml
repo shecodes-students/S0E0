@@ -20,13 +20,14 @@ entry: https://help.github.com/articles/create-a-repo
 description: |
     This repository will be a place for your personal notes, like a blog.
 pages:
+  - url: https://help.github.com/articles/create-a-repo
   - url: /.*\/github.com\/new/
     description: |
       Call your new repository `my-notes-on-she.codes`.
       Make it `public` and select `Initialize this repository with a README`.
   - url: /.*\/github.com\/[^/]+/my-notes-on-she.codes/
     description: |
-      In the Readme.md you can put something like 'This repository is for my personal she.codes stuff'.
+      You can edit the Readme.md file by clicking on the file name (in blue) and then on the pen icon on the right. Edit the  Readme.md so it says something like 'This repository is for my personal she.codes stuff'.
       
     
       **NOTE** All the world can see the contents of this repository. It is public.

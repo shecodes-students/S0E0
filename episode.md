@@ -44,8 +44,10 @@ title: Ready?
 template: reading_list.ejs
 resources: resources.yaml
 ---
-Okay, so here is your first quest - your first reading list!
-After you have installed the bookmarklet, start by clicking on the headline next to step 1, it will take you to the external web site. Click the bookmarklet once you are there to get hints and annotations.
+Okay, so here is your first quest, your first reading list!
+After you have installed the bookmarklet, start by clicking on the headline next to step 1, it will take you to a help page on GitHub that explains how you create your account. It will tell you to follow links and you will navigate to various pages on GitHub's website.
+Whenver you navigate to a new page, it is important to re-open the Reading List by clicking the bookmarklet to show any hints or comments we have for that particular page! These comments are a bit like easter eggs – you need to find them all to solve your quest. The Reading List also tells you how many pages on the external website you will be visiting and how many notes we hid on these pages in total.
+
 All the links in the reading list open in a new window.
 After you finished all the steps, please return here (simply by closing that window).
 
