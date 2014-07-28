@@ -1,7 +1,7 @@
 .reading_list h1 {
     font-size: 1.3em;
 }
-.reading_list span.pages {
+.reading_list .pageControl {
     display: none;
 }
 .reading_list > a {
@@ -20,6 +20,14 @@
 }
 .reading_list li .page {
     display: none;
+}
+
+.reading_list .description p {
+    margin-bottom: .5em;
+}
+
+.reading_list .counts {
+    margin-bottom: 1.5em;
 }
 
 pre {
